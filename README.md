@@ -4,3 +4,4 @@ python
 first input the sides of triangke 
 after running the script
 and get the result out as area
+on the basis of mathematical formulae
